@@ -1,0 +1,31 @@
+.CompanysBtn:visited {
+    text-decoration: none;
+    color: rgb(96, 134, 236);
+}
+
+.Menu {
+    padding: 27px;
+    background-color: #F3F3F3;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1c1c1ce1;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+
+img {
+    width: 200px;
+    float: left;
+    float: top;
+}
+
+.buttonsDiv {
+    margin-right: 180px;
+}
